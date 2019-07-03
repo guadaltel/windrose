@@ -15,10 +15,10 @@
   }],
   "files": {
     "ol": {
-      "scripts": [],
-      "styles": []
+      "scripts": "windrose.ol.min.js",
+      "styles": "windrose.min.css"
     }
-  },
+  }
   "metadata": {
     "name": "Windrose",
     "description": "A wind rose",
