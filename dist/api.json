@@ -16,7 +16,7 @@
   "files": {
     "ol": {
       "scripts": "windrose.ol.min.js",
-      "styles": "windrose.min.css"
+      "styles": "windrose.ol.min.css"
     }
   }
   "metadata": {
