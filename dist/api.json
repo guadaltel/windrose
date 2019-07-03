@@ -1,0 +1,33 @@
+{
+  "url": {
+    "name": "windrose",
+    "separator": "*"
+  },
+  "constructor": "M.plugin.Windrose",
+  "parameters": [{
+    "type": "object",
+    "properties": [{
+      "type": "enum",
+      "name": "position",
+      "possibleValues": ["TR", "TL", "TC", "BL", "BR", "BC", "RC", "LC"],
+      "position": 0
+    }]
+  }],
+  "files": {
+    "ol": {
+      "scripts": [],
+      "styles": []
+    }
+  },
+  "metadata": {
+    "name": "Windrose",
+    "description": "A wind rose",
+    "text": "A wind rose is shown on map",
+    "version": "1.0.0",
+    "date": "",
+    "author": "",
+    "org": "",
+    "tags": "mapea,plugin",
+    "icon": "./facade/assets/icons/icons.svg"
+  }
+}
