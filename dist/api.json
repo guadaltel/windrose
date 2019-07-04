@@ -18,7 +18,7 @@
       "scripts": "windrose.ol.min.js",
       "styles": "windrose.ol.min.css"
     }
-  }
+  },
   "metadata": {
     "name": "Windrose",
     "description": "Rose de los vientos",
