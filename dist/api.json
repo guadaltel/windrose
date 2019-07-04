@@ -21,12 +21,12 @@
   }
   "metadata": {
     "name": "Windrose",
-    "description": "A wind rose",
-    "text": "A wind rose is shown on map",
+    "description": "Rose de los vientos",
+    "text": "Te permite mostrar una rosa de los vientos en el mapa",
     "version": "1.0.0",
-    "date": "",
+    "date": "Jun 26, 2019",
     "author": "",
-    "org": "",
+    "org": "Instituto de Estadística y Cartografía",
     "tags": "mapea,plugin",
     "icon": "./facade/assets/icons/icons.svg"
   }
