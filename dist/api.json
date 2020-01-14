@@ -4,32 +4,28 @@
     "separator": "*"
   },
   "constructor": "M.plugin.Windrose",
-  "parameters": [
-    {
-      "type": "object",
-      "properties": [
-        {
-          "type": "enum",
-          "name": "position",
-          "possibleValues": [
-            "TR",
-            "TL",
-            "TC",
-            "BL",
-            "BR",
-            "BC",
-            "RC",
-            "LC"
-          ],
-          "position": 0
-        }
-      ]
-    }
-  ],
+  "parameters": [{
+    "type": "object",
+    "properties": [{
+      "type": "enum",
+      "name": "position",
+      "possibleValues": [
+        "TR",
+        "TL",
+        "TC",
+        "BL",
+        "BR",
+        "BC",
+        "RC",
+        "LC"
+      ],
+      "position": 0
+    }]
+  }],
   "files": {
     "ol": {
-      "scripts": "windrose.ol.min.js",
-      "styles": "windrose.ol.min.css"
+      "scripts": ["windrose.ol.min.js"],
+      "styles": ["windrose.ol.min.css"]
     }
   },
   "metadata": {
